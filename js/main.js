@@ -4,4 +4,4 @@
 
 	window.console.log('JS content loaded');
 
-}(this.window));
+}(this));
